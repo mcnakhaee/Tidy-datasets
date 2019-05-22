@@ -1,4 +1,7 @@
 # Tidy-datasets
+You can run this repo in Binder using:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcnakhaee/Tidy-datasets/master)
+
 Jupyter notebooks for my tutorial on tidying datasets
 
 In this notebook I show how we can deal with untidy datasets as described in Hadley Wickham's "Tidy Data" paper.
